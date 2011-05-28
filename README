@@ -1,0 +1,6 @@
+== Textile_Parser
+
+This project contains a PEG based parser for Textile. Currently the project
+in ongoing and the implementation coveres just a subset of the Textile
+standard.
+
